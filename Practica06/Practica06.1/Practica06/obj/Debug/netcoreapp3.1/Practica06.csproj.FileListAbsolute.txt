@@ -1,0 +1,13 @@
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\bin\Debug\netcoreapp3.1\Practica06.exe
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\bin\Debug\netcoreapp3.1\Practica06.deps.json
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\bin\Debug\netcoreapp3.1\Practica06.runtimeconfig.json
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\bin\Debug\netcoreapp3.1\Practica06.runtimeconfig.dev.json
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\bin\Debug\netcoreapp3.1\Practica06.dll
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\bin\Debug\netcoreapp3.1\Practica06.pdb
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.csprojAssemblyReference.cache
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.AssemblyInfoInputs.cache
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.AssemblyInfo.cs
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.csproj.CoreCompileInputs.cache
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.dll
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.pdb
+C:\Users\YeisonPX\source\repos\Practica06\Practica06\obj\Debug\netcoreapp3.1\Practica06.genruntimeconfig.cache
